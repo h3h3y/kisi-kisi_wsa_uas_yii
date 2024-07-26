@@ -2,6 +2,7 @@
 <p>menambahkan cookievalidationkey di web.php</p>
 <p>cara akses gii : http://localhost/nama_folder/web/index.php?r=gii</p>
 <p>contoh cara cek consume client api : http://localhost/wsauas/client/curl_get.php</p>
+<p>fokus pada file db.php, web.php, curl_get.php, folder controller, selain itu abaikan saja seperti dia mengabaikan ku wkwkwkw</p>
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <p align="center">
