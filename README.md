@@ -1,3 +1,9 @@
+<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>menambahkan cookievalidationkey di web.php</p>
+<p>cara akses gii : http://localhost/nama_folder/web/index.php?r=gii</p>
+<p>contoh cara cek consume client api : http://localhost/wsauas/client/curl_get.php</p>
+<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
